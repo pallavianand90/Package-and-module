@@ -1,0 +1,54 @@
+2022-01-26 17:18:43,441 INFO Creating Class body
+2022-01-26 17:21:05,556 INFO Body of the Class created
+2022-01-26 17:21:05,557 INFO Started mapping the key-value pair..
+2022-01-26 17:21:05,557 ERROR Error occured: name 'fromkeys' is not defined
+Traceback (most recent call last):
+  File "C:\Users\DEEPAK~1\AppData\Local\Temp/ipykernel_19796/3011302904.py", line 63, in fromkeys_dict_func
+    x = fromkeys(a,b)
+NameError: name 'fromkeys' is not defined
+2022-01-26 17:21:05,558 ERROR Something went Wrong
+2022-01-26 17:21:05,558 WARNING Fix the bug otherwise code will not work!!!!
+2022-01-26 17:22:36,890 INFO Creating Class body
+2022-01-26 17:22:38,855 INFO Body of the Class created
+2022-01-26 17:22:38,855 INFO Started mapping the key-value pair..
+2022-01-26 17:22:38,856 INFO Successful
+2022-01-26 17:23:18,592 INFO Body of the Class created
+2022-01-26 17:23:18,593 INFO Started fetching the keys..
+2022-01-26 17:23:18,593 INFO Successful
+2022-01-26 17:23:33,578 INFO Body of the Class created
+2022-01-26 17:23:33,578 INFO Started fetching the elements..
+2022-01-26 17:23:33,579 INFO Successful
+2022-01-26 17:23:47,172 INFO Body of the Class created
+2022-01-26 17:23:47,173 INFO Started fetching the keys..
+2022-01-26 17:23:47,174 INFO Successful
+2022-01-26 17:53:05,208 INFO Body of the Class created
+2022-01-26 17:53:05,209 INFO Started fetching the keys..
+2022-01-26 17:53:05,210 INFO Successful
+2022-01-26 17:55:27,684 INFO Body of the Class created
+2022-01-26 17:55:56,974 INFO Body of the Class created
+2022-01-26 17:55:56,975 INFO Started f the keys..
+2022-01-26 17:55:56,975 ERROR Error occured: 'dict' object has no attribute 'pip'
+Traceback (most recent call last):
+  File "C:\Users\DEEPAK~1\AppData\Local\Temp/ipykernel_19796/150137348.py", line 76, in pop_dict_func
+    self.l.pip(a)
+AttributeError: 'dict' object has no attribute 'pip'
+2022-01-26 17:55:56,976 ERROR Something went Wrong
+2022-01-26 17:55:56,977 WARNING Fix the bug otherwise code will not work!!!!
+2022-01-26 17:56:16,945 INFO Body of the Class created
+2022-01-26 17:57:02,940 INFO Body of the Class created
+2022-01-26 17:57:02,941 INFO Started f the keys..
+2022-01-26 17:57:02,941 ERROR Error occured: 'dict' object has no attribute 'pip'
+Traceback (most recent call last):
+  File "C:\Users\DEEPAK~1\AppData\Local\Temp/ipykernel_19796/150137348.py", line 76, in pop_dict_func
+    self.l.pip(a)
+AttributeError: 'dict' object has no attribute 'pip'
+2022-01-26 17:57:02,942 ERROR Something went Wrong
+2022-01-26 17:57:02,942 WARNING Fix the bug otherwise code will not work!!!!
+2022-01-26 17:57:19,999 INFO Creating Class body
+2022-01-26 17:57:21,243 INFO Body of the Class created
+2022-01-26 17:57:21,244 INFO Started f the keys..
+2022-01-26 17:57:21,244 INFO Successful
+2022-01-26 18:10:20,823 INFO Body of the Class created
+2022-01-26 18:10:20,824 INFO Started adding the key-value pair..
+2022-01-26 18:10:20,824 INFO Successful
+2022-01-26 19:03:52,231 INFO Creating Class body

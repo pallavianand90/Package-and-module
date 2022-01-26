@@ -1,0 +1,45 @@
+2022-01-25 15:11:10,145 INFO Creating Class body
+2022-01-25 15:11:11,921 INFO Body of the Class created
+2022-01-25 15:11:13,572 INFO Started appending list
+2022-01-25 15:11:13,712 ERROR Something went Wrong
+2022-01-25 15:12:08,976 INFO Creating Class body
+2022-01-25 15:12:10,306 INFO Body of the Class created
+2022-01-25 15:12:11,035 INFO Started appending list
+2022-01-25 15:14:55,494 INFO Creating Class body
+2022-01-25 15:14:56,016 INFO Body of the Class created
+2022-01-25 15:14:57,100 INFO Started appending list
+2022-01-25 15:14:57,109 ERROR Something went Wrong
+2022-01-25 16:41:49,579 INFO Creating Class body
+2022-01-25 16:41:50,416 INFO Body of the Class created
+2022-01-25 16:41:51,050 INFO Started appending list
+2022-01-25 16:41:51,050 ERROR Error occured: list.append() takes exactly one argument (2 given)
+Traceback (most recent call last):
+  File "C:\Users\DEEPAK~1\AppData\Local\Temp/ipykernel_16600/2255180226.py", line 14, in append_list_func
+    l1.append(*args)
+TypeError: list.append() takes exactly one argument (2 given)
+2022-01-25 16:41:51,052 ERROR Something went Wrong
+2022-01-25 16:44:47,543 INFO Creating Class body
+2022-01-25 16:44:48,194 INFO Body of the Class created
+2022-01-25 16:44:48,581 INFO Started appending list
+2022-01-25 16:44:48,582 ERROR Error occured: list.append() takes exactly one argument (2 given)
+Traceback (most recent call last):
+  File "C:\Users\DEEPAK~1\AppData\Local\Temp/ipykernel_16600/1038145362.py", line 14, in append_list_func
+    l1.append(*args)
+TypeError: list.append() takes exactly one argument (2 given)
+2022-01-25 16:44:48,583 ERROR Something went Wrong
+2022-01-25 16:44:48,583 WARNING Fix the bug otherwise code will not work!!!!
+2022-01-25 17:01:05,024 ERROR Error occured: name 'z' is not defined
+Traceback (most recent call last):
+  File "C:\Users\DEEPAK~1\AppData\Local\Temp/ipykernel_19952/2274391613.py", line 105, in index_list_func
+    for i in range(len(z)):
+NameError: name 'z' is not defined
+2022-01-25 17:01:05,025 ERROR Something went Wrong
+2022-01-25 17:01:05,026 WARNING Fix the bug otherwise code will not work!!!!
+2022-01-25 17:02:46,294 ERROR Error occured: name 'z' is not defined
+Traceback (most recent call last):
+  File "C:\Users\DEEPAK~1\AppData\Local\Temp/ipykernel_19952/2780089462.py", line 105, in index_list_func
+    for i in range(len(z)):
+NameError: name 'z' is not defined
+2022-01-25 17:02:46,295 ERROR Something went Wrong
+2022-01-25 17:02:46,295 WARNING Fix the bug otherwise code will not work!!!!
+2022-01-25 17:16:59,316 INFO Creating Class body
